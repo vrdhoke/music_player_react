@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/music_player_react/static/css/main.d1b05096.chunk.css",
+    "main.js": "/music_player_react/static/js/main.1f51d087.chunk.js",
+    "main.js.map": "/music_player_react/static/js/main.1f51d087.chunk.js.map",
+    "runtime-main.js": "/music_player_react/static/js/runtime-main.01dadcda.js",
+    "runtime-main.js.map": "/music_player_react/static/js/runtime-main.01dadcda.js.map",
+    "static/js/2.3887b7da.chunk.js": "/music_player_react/static/js/2.3887b7da.chunk.js",
+    "static/js/2.3887b7da.chunk.js.map": "/music_player_react/static/js/2.3887b7da.chunk.js.map",
+    "index.html": "/music_player_react/index.html",
+    "precache-manifest.edbfb4718d4c34154655f6d9261afda8.js": "/music_player_react/precache-manifest.edbfb4718d4c34154655f6d9261afda8.js",
+    "service-worker.js": "/music_player_react/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/music_player_react/static/css/main.d1b05096.chunk.css.map",
+    "static/media/NetEase_Music_logo.svg": "/music_player_react/static/media/NetEase_Music_logo.cd993e2b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01dadcda.js",
+    "static/js/2.3887b7da.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.1f51d087.chunk.js"
+  ]
+}
