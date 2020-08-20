@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/music_player_react/static/css/main.5f361e03.chunk.css",
-    "main.js": "/music_player_react/static/js/main.57112fc3.chunk.js",
-    "main.js.map": "/music_player_react/static/js/main.57112fc3.chunk.js.map",
+    "main.js": "/music_player_react/static/js/main.c55fa1a1.chunk.js",
+    "main.js.map": "/music_player_react/static/js/main.c55fa1a1.chunk.js.map",
     "runtime-main.js": "/music_player_react/static/js/runtime-main.03f9e909.js",
     "runtime-main.js.map": "/music_player_react/static/js/runtime-main.03f9e909.js.map",
     "static/js/2.58325bd6.chunk.js": "/music_player_react/static/js/2.58325bd6.chunk.js",
     "static/js/2.58325bd6.chunk.js.map": "/music_player_react/static/js/2.58325bd6.chunk.js.map",
     "index.html": "/music_player_react/index.html",
-    "precache-manifest.b3cd33d3f49c8ccf75fa09f9d38176bf.js": "/music_player_react/precache-manifest.b3cd33d3f49c8ccf75fa09f9d38176bf.js",
+    "precache-manifest.98ae236cc12c2812c3e7785385dc2032.js": "/music_player_react/precache-manifest.98ae236cc12c2812c3e7785385dc2032.js",
     "service-worker.js": "/music_player_react/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/music_player_react/static/css/main.5f361e03.chunk.css.map",
     "static/media/NetEase_Music_logo.svg": "/music_player_react/static/media/NetEase_Music_logo.cd993e2b.svg"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.03f9e909.js",
     "static/js/2.58325bd6.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.57112fc3.chunk.js"
+    "static/js/main.c55fa1a1.chunk.js"
   ]
 }
