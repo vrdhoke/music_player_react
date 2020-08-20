@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7fe60b1-408d-4879-9a49-77a5bf649c87" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PlaylistPanel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/desktop/components/PlaylistPanel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SeekSongPanel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/desktop/components/SeekSongPanel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Snackbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SongPanel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/desktop/components/SongPanel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/MainPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/desktop/containers/MainPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reducers/reducers.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/reducers.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1ZjkycXaxMgEi5tJcDJevidlcez" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8.0_191" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/desktop" />
+      <recent name="$PROJECT_DIR$/src/containers" />
+      <recent name="$PROJECT_DIR$/src/components" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/others" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7fe60b1-408d-4879-9a49-77a5bf649c87" name="Default Changelist" comment="" />
+      <created>1576297361058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576297361058</updated>
+      <workItem from="1576297362461" duration="696000" />
+      <workItem from="1576301801793" duration="24000" />
+      <workItem from="1576301844208" duration="264000" />
+      <workItem from="1576302941999" duration="33000" />
+      <workItem from="1576302983018" duration="50000" />
+      <workItem from="1576303047176" duration="51000" />
+      <workItem from="1576303134428" duration="86000" />
+      <workItem from="1576303237437" duration="1602000" />
+      <workItem from="1576358030084" duration="4000" />
+      <workItem from="1576358044680" duration="24000" />
+      <workItem from="1576358084501" duration="12000" />
+      <workItem from="1576358109160" duration="5358000" />
+      <workItem from="1576377679958" duration="4246000" />
+      <workItem from="1576447585797" duration="5546000" />
+      <workItem from="1576453898832" duration="11679000" />
+      <workItem from="1576479746976" duration="28183000" />
+      <workItem from="1576661956341" duration="49000" />
+      <workItem from="1576709869196" duration="2598000" />
+      <workItem from="1576713066504" duration="1587000" />
+      <workItem from="1576717034716" duration="1343000" />
+      <workItem from="1576718862798" duration="12425000" />
+      <workItem from="1578691606368" duration="422000" />
+      <workItem from="1578698046240" duration="848000" />
+      <workItem from="1578780456631" duration="1121000" />
+      <workItem from="1578781670144" duration="2000" />
+      <workItem from="1578782183861" duration="583000" />
+      <workItem from="1578783294425" duration="61000" />
+      <workItem from="1578783903574" duration="533000" />
+      <workItem from="1578874423885" duration="2341000" />
+      <workItem from="1579038055563" duration="5239000" />
+      <workItem from="1579115272524" duration="144000" />
+      <workItem from="1579115661914" duration="333000" />
+      <workItem from="1580355759767" duration="2000" />
+      <workItem from="1580822638064" duration="313000" />
+      <workItem from="1580827725541" duration="55000" />
+      <workItem from="1580828639117" duration="79000" />
+      <workItem from="1580828808647" duration="559000" />
+      <workItem from="1581883845564" duration="96000" />
+      <workItem from="1581883945223" duration="12000" />
+      <workItem from="1582081332831" duration="42000" />
+      <workItem from="1582144942161" duration="59000" />
+      <workItem from="1582145335060" duration="16000" />
+      <workItem from="1582145386465" duration="33000" />
+      <workItem from="1582145673334" duration="10000" />
+      <workItem from="1582145703398" duration="75000" />
+      <workItem from="1582146171578" duration="9000" />
+      <workItem from="1582146416249" duration="7000" />
+      <workItem from="1582290369698" duration="3641000" />
+      <workItem from="1582329892110" duration="40000" />
+      <workItem from="1582329936409" duration="5000" />
+      <workItem from="1582331863990" duration="11000" />
+      <workItem from="1582349972426" duration="26000" />
+      <workItem from="1582350060355" duration="43000" />
+      <workItem from="1582350140506" duration="3000" />
+      <workItem from="1582350289034" duration="9000" />
+      <workItem from="1582350748108" duration="8000" />
+      <workItem from="1582350765611" duration="17000" />
+      <workItem from="1582350795220" duration="7000" />
+      <workItem from="1582350824388" duration="8000" />
+      <workItem from="1582350853106" duration="12000" />
+      <workItem from="1582396331607" duration="5000" />
+      <workItem from="1582398806613" duration="10000" />
+      <workItem from="1582413710430" duration="97000" />
+      <workItem from="1585360158029" duration="10928000" />
+      <workItem from="1585430662776" duration="1584000" />
+      <workItem from="1585432312880" duration="17681000" />
+      <workItem from="1585514409067" duration="1017000" />
+      <workItem from="1585525192343" duration="8799000" />
+      <workItem from="1585546164922" duration="13474000" />
+      <workItem from="1585608465959" duration="10151000" />
+      <workItem from="1585696490090" duration="285000" />
+      <workItem from="1585696816514" duration="5109000" />
+      <workItem from="1585706091724" duration="51259000" />
+      <workItem from="1585892339078" duration="3341000" />
+      <workItem from="1585895930451" duration="178000" />
+      <workItem from="1585981932099" duration="675000" />
+      <workItem from="1585982716215" duration="1221000" />
+      <workItem from="1586032653950" duration="727000" />
+      <workItem from="1586033502403" duration="1385000" />
+      <workItem from="1586498905399" duration="4324000" />
+      <workItem from="1586652225411" duration="1098000" />
+      <workItem from="1586899218168" duration="4394000" />
+      <workItem from="1586903788459" duration="4704000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="102" key="#ESLint" timestamp="1585540874242">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="320" y="102" key="#ESLint/0.23.1440.831@0.23.1440.831" timestamp="1585540874242" />
+    <state x="447" y="246" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585540655512">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="447" y="246" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.831@0.23.1440.831" timestamp="1585540655512" />
+    <state x="410" y="200" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586903737742">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="410" y="200" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.832@0.23.1440.832" timestamp="1586903737742" />
+    <state width="1358" height="201" key="GridCell.Tab.0.bottom" timestamp="1585513317457">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1358" height="201" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1585513317457" />
+    <state width="1358" height="201" key="GridCell.Tab.0.center" timestamp="1585513317454">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1358" height="201" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1585513317454" />
+    <state width="1358" height="201" key="GridCell.Tab.0.left" timestamp="1585513317454">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1358" height="201" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1585513317454" />
+    <state width="1358" height="201" key="GridCell.Tab.0.right" timestamp="1585513317455">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1358" height="201" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1585513317455" />
+    <state x="397" y="270" key="com.intellij.ide.util.TipDialog" timestamp="1586903791241">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="397" y="270" key="com.intellij.ide.util.TipDialog/0.23.1440.831@0.23.1440.831" timestamp="1585981932499" />
+    <state x="397" y="270" key="com.intellij.ide.util.TipDialog/0.23.1440.832@0.23.1440.832" timestamp="1586903791241" />
+    <state x="385" y="178" width="670" height="677" key="search.everywhere.popup" timestamp="1586904137913">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="385" y="178" width="670" height="676" key="search.everywhere.popup/0.23.1440.831/-1920.-157.1920.1057@0.23.1440.831" timestamp="1585592870615" />
+    <state x="385" y="178" width="670" height="676" key="search.everywhere.popup/0.23.1440.831@0.23.1440.831" timestamp="1585603869526" />
+    <state x="385" y="178" width="670" height="677" key="search.everywhere.popup/0.23.1440.832@0.23.1440.832" timestamp="1586904137913" />
+    <state x="450" y="335" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1585432852819">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="450" y="335" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1440.831@0.23.1440.831" timestamp="1585432852819" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/desktop/components/PlaylistPanel.js</url>
+          <line>122</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8.0_191</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
