@@ -1,14 +1,16 @@
 {
-  "name": "music-webapp",
+  "name": "music_player_react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://vrdhoke.github.io/music_player_react",
+  "homepage": "http://www.vaibhavdhoke.me/",
   "dependencies": {
     "@material-ui/core": "^4.9.6",
     "@material-ui/icons": "^4.5.1",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
     "@testing-library/user-event": "^7.1.2",
+    "browserslist": "^4.14.0",
+    "caniuse-lite": "^1.0.30001116",
     "gh-pages": "^3.1.0",
     "google-maps-react": "^2.0.2",
     "material-ui": "^0.20.2",
