@@ -184,7 +184,7 @@ class SeekSongPanel extends React.Component {
             id)
         this.setState({addSongAlert: true})
       } else {
-        alert("No copyright | 没有版权")
+        alert("Sorry! This song is not available to play")
       }
     })
   }
@@ -203,15 +203,14 @@ class SeekSongPanel extends React.Component {
                 direction="column"
                 justify="center"
                 alignItems="center"
-            >
+            > 
               <Grid item>
-                <img src={NeteaseLogo} alt="website logo"
-                     style={{width: 50, height: 50, margin: 8}}/>
+                <img src="https://avatars0.githubusercontent.com/u/50775018?s=460&u=fb2dfa063b33b87c2900e7b1e1082c0495c5c983&v=4" alt="website logo"
+                     style={{width: 80, height: 80, margin: 5}}/>
               </Grid>
 
               <Grid item>
-                <Typography variant="caption" color="textSecondary">Powered By
-                  NeteaseCloudMusic</Typography>
+                <Typography variant="caption" color="textSecondary">Listen to Amazing Songs</Typography><br/><br/>
 
               </Grid>
 
